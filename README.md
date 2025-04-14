@@ -1,0 +1,1 @@
+# didix.cloud.schema
